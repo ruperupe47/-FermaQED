@@ -1,0 +1,19 @@
+if large_comparison(2,1):
+  print(1)QED
+QED
+
+if small_comparison(1,2):
+  print(2)QED
+QED
+
+if equal_comparison(1,1):
+  print(3)QED
+QED
+
+[5] = 10QED
+print([5])QED
+while large_comparison([5],1):
+  [ 5 ]= [5] - 1QED
+QED
+
+Ferma()QED 

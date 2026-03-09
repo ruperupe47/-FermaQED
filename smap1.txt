@@ -1,0 +1,9 @@
+[0] = 1QED
+[1] = [0]QED
+
+[2] = 2+1QED
+
+print(2+2)QED
+print([2])QED
+
+Ferma()QED

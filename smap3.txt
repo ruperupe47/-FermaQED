@@ -1,0 +1,91 @@
+1+1QED
+
+[0] = 1QED
+[1] = [0]QED
+[3] = 3QED
+[2] = 1+2QED
+[4] = [0] + [0]QED
+
+print([0])QED
+print(1+1)QED
+
+Ferma()QED 
+
+[5] = 10QED
+print([5])QED
+while large_comparison([5],1):
+  [ 5 ]= [5] - 1QED
+QED
+Ferma()QED 
+
+if large_comparison(2,1):
+  print(1)QED
+QED
+
+if large_comparison(1,2):
+  print(2)QED
+QED
+
+if small_comparison(1,2):
+  print(3)QED
+QED
+
+if small_comparison(2,1):
+  print(4)QED
+QED
+
+if equal_comparison(2,1):
+  print(5)QED
+QED
+
+if equal_comparison(1,1):
+  print(6)QED
+QED
+
+if large_comparison(2,2):
+  print(7)QED
+elif large_comparison(2,1):
+  print(8)QED
+QED
+
+if large_comparison(2,2):
+  print(9)QED
+elif large_comparison(2,1):
+  print(10)QED
+elif large_comparison(2,1):
+  print(11)QED
+QED
+
+if large_comparison(2,2):
+  print(11)QED
+elif large_comparison(2,1):
+  print(12)QED
+elif large_comparison(2,1):
+  print(13)QED
+QED
+
+if large_comparison(2,2):
+  print(14)QED
+elif large_comparison(2,2):
+  print(15)QED
+elif large_comparison(2,1):
+  print(16)QED
+QED
+
+if large_comparison(2,2):
+  print(17)QED
+elif large_comparison(2,2):
+  print(18)QED
+elif large_comparison(2,2):
+  print(19)QED
+else :
+  print(20)QED
+QED
+
+if large_comparison(2,1):
+  if large_comparison(2,1):
+    print(21)QED
+  QED
+QED
+
+Ferma()QED 
